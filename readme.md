@@ -15,7 +15,6 @@
 
 1. [Lambda](https://github.com/RodneyShag/AWS_Lambda)
 1. [S3](https://github.com/RodneyShag/AWS_S3)
-    - [S3 Static Website Hosting](https://github.com/RodneyShag/AWS_S3-Static-Website-Hosting)
 1. [DynamoDB](https://github.com/RodneyShag/AWS_DynamoDB)
 1. [Redshift](https://github.com/RodneyShag/AWS_Redshift)
 
