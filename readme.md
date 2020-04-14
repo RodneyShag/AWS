@@ -18,6 +18,10 @@
 1. [DynamoDB](https://github.com/RodneyShag/AWS_DynamoDB)
 1. [Redshift](https://github.com/RodneyShag/AWS_Redshift)
 
+#### Articles
+
+1. [Athena](https://towardsdatascience.com/query-data-from-s3-files-using-aws-athena-686a5b28e943)
+
 # Favorite Services
 
 #### Compute
