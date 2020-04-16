@@ -4,7 +4,6 @@
 
 1. [A Cloud Guru - Introduction to Cloud Computing](https://acloud.guru/learn/intro-cloud-computing) - a 20 minute intro to Cloud Computing
 1. [A Cloud Guru - AWS Technical Essentials](https://github.com/RodneyShag/AWS_Technical-Essentials) - a 1.5 hour intro to AWS
-1. [Amazon: AWS Technical Professional](https://github.com/RodneyShag/AWS_Technical-Professional) - high-level overview of AWS
 
 #### Detailed Courses
 
