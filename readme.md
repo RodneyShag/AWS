@@ -5,9 +5,8 @@
 1. [A Cloud Guru - Introduction to Cloud Computing](https://acloud.guru/learn/intro-cloud-computing) - a 20 minute intro to Cloud Computing
 1. [A Cloud Guru - AWS Technical Essentials](https://github.com/RodneyShag/AWS_Technical-Essentials) - a 1.5 hour intro to AWS
 
-#### Detailed Courses
+####  Certification Courses
 
-1. [AWS Certified Cloud Practitioner](https://github.com/RodneyShag/AWS_Certified-Cloud-Practitioner) - notes on 6-hour tutorial
 1. [AWS Certified Developer Associate](https://github.com/RodneyShag/AWS_Certified-Developer-Associate) - notes on 15-hour tutorial
 
 #### Specific Services
