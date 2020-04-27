@@ -16,4 +16,6 @@
 1. [S3](https://github.com/RodneyShag/AWS_S3)
 1. [DynamoDB](https://github.com/RodneyShag/AWS_DynamoDB)
 1. [Redshift](https://github.com/RodneyShag/AWS_Redshift)
+1. [Step Functions](https://github.com/RodneyShag/AWS_Step-Functions)
+1. [X-Ray](https://github.com/RodneyShag/AWS_X-Ray)
 1. [Athena](https://towardsdatascience.com/query-data-from-s3-files-using-aws-athena-686a5b28e943) (article)
