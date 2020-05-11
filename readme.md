@@ -1,13 +1,10 @@
-#### Introductory Courses
+#### Courses (A Cloud Guru)
 
-1. [A Cloud Guru - Introduction to Cloud Computing](https://acloud.guru/learn/intro-cloud-computing) - 20 minute intro to Cloud Computing.
-1. [A Cloud Guru - AWS Technical Essentials](https://github.com/RodneyShag/AWS_Technical-Essentials) - 1.5 hour intro to AWS.
-
-####  Certification Courses
-
-1. [AWS Certified Developer - Associate](https://github.com/RodneyShag/AWS_Certified-Developer-Associate) (completed once)
-1. [AWS Certified Solutions Architect - Associate](https://learn.acloud.guru/course/aws-certified-solutions-architect-associate/dashboard) - to do
-1. [AWS Certified SysOps Administrator - Associate](https://acloud.guru/learn/aws-certified-sysops-administrator-associate?_ga=2.24226995.844289017.1586999437-1538708250.1586999437&_gac=1.140100231.1587004589.EAIaIQobChMI6Nux4fTr6AIVBRx9Ch1jRgFOEAAYASAAEgIOcvD_BwE) - to do
+1. [Introduction to Cloud Computing](https://acloud.guru/learn/intro-cloud-computing) - 20 minutes
+1. [AWS Technical Essentials](https://github.com/RodneyShag/AWS_Technical-Essentials) - 1.5 hours
+1. [AWS Certified Developer - Associate](https://github.com/RodneyShag/AWS_Certified-Developer-Associate) - 16 hours
+1. [AWS Certified Solutions Architect - Associate](https://learn.acloud.guru/course/aws-certified-solutions-architect-associate/dashboard) - 15 hours (to do)
+1. [ AWS Certified SysOps Administrator - Associate](https://acloud.guru/learn/aws-certified-sysops-administrator-associate?_ga=2.24226995.844289017.1586999437-1538708250.1586999437&_gac=1.140100231.1587004589.EAIaIQobChMI6Nux4fTr6AIVBRx9Ch1jRgFOEAAYASAAEgIOcvD_BwE) - 17 hours (to do)
 
 
 #### Specific Services
@@ -19,3 +16,10 @@
 1. [Step Functions](https://github.com/RodneyShag/AWS_Step-Functions)
 1. [X-Ray](https://github.com/RodneyShag/AWS_X-Ray)
 1. [Athena](https://towardsdatascience.com/query-data-from-s3-files-using-aws-athena-686a5b28e943) (article)
+
+
+#### Resources
+
+- [AWS whitepapers](https://aws.amazon.com/whitepapers/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=content-type%23whitepaper)
+- [AWS training and certification](https://www.aws.training/LearningLibrary?&search=&tab=digital_courses) - drawback is that you can't speed up the videos.
+- [AWS FAQs](https://aws.amazon.com/faqs)
