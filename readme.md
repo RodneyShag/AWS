@@ -1,10 +1,10 @@
 #### Courses (A Cloud Guru)
 
-1. [Introduction to Cloud Computing](https://acloud.guru/learn/intro-cloud-computing) - 20 minutes
+1. [Introduction to Cloud Computing](https://acloud.guru/learn/intro-cloud-computing) - 0.3 hours
 1. [AWS Technical Essentials](https://github.com/RodneyShag/AWS_Technical-Essentials) - 1.5 hours
-1. [AWS Certified Developer - Associate](https://github.com/RodneyShag/AWS_Certified-Developer-Associate) - 16 hours
+1. [AWS Certified Developer - Associate](https://learn.acloud.guru/course/aws-certified-developer-associate/dashboard) - 16 hours
 1. [AWS Certified Solutions Architect - Associate](https://learn.acloud.guru/course/aws-certified-solutions-architect-associate/dashboard) - 15 hours (to do)
-1. [ AWS Certified SysOps Administrator - Associate](https://acloud.guru/learn/aws-certified-sysops-administrator-associate?_ga=2.24226995.844289017.1586999437-1538708250.1586999437&_gac=1.140100231.1587004589.EAIaIQobChMI6Nux4fTr6AIVBRx9Ch1jRgFOEAAYASAAEgIOcvD_BwE) - 17 hours (to do)
+1. [AWS Certified SysOps Administrator - Associate](https://acloud.guru/learn/aws-certified-sysops-administrator-associate?_ga=2.24226995.844289017.1586999437-1538708250.1586999437&_gac=1.140100231.1587004589.EAIaIQobChMI6Nux4fTr6AIVBRx9Ch1jRgFOEAAYASAAEgIOcvD_BwE) - 17 hours (to do)
 
 
 #### Specific Services
